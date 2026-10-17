@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#f3f1ea"/>
+<circle cx="1020" cy="90" r="260" fill="#dceae5"/>
+<circle cx="160" cy="620" r="230" fill="#e4e9e5"/>
+<text x="90" y="210" font-family="Georgia,serif" font-size="76" fill="#101412">Jitao Zhou</text>
+<text x="92" y="282" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#0d5c4f">AI FOR MATERIALS · SCIENTIFIC AI</text>
+<text x="92" y="350" font-family="Arial,sans-serif" font-size="25" fill="#59635e">Materials design · World models · Multi-agent systems</text>
+<text x="92" y="390" font-family="Arial,sans-serif" font-size="25" fill="#59635e">Trustworthy computer vision · Scientific discovery</text>
+<rect x="92" y="460" width="290" height="62" rx="31" fill="#101412"/>
+<text x="237" y="499" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#ffffff">singlebridge.github.io</text>
+</svg>

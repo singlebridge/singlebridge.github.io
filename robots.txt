@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://singlebridge.github.io/sitemap.xml
