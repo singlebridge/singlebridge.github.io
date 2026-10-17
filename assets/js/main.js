@@ -1,5 +1,10 @@
 document.getElementById('year').textContent = new Date().getFullYear();
 
+// Keep CV buttons synced with the actual uploaded PDF filename.
+document.querySelectorAll('a[href*="Jitao_Zhou_CV.pdf"]').forEach(link => {
+  link.setAttribute('href', 'assets/files/Jitao%20Zhou_CV.pdf');
+});
+
 // Keep the public website current without altering the downloadable CV.
 const heroLead = document.querySelector('.hero-lead');
 if (heroLead) {
